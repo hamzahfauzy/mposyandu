@@ -1,0 +1,8 @@
+<?php
+
+class {Sample}_Model extends Model {
+	
+	static $table = "{table}";
+	static $lbl = [{label}];
+	
+}
